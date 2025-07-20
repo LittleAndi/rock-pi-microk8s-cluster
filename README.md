@@ -13,6 +13,8 @@ This repository documents the process of setting up a lightweight Kubernetes clu
 - **Kubernetes Distribution**: MicroK8s
 - **Purpose**: Lightweight, efficient Kubernetes cluster for development and learning.
 
+![Two Radxa ROCK 4SE in a GeeekPi Cluster Case](img/IMG_8065.JPEG)
+
 ## Contents
 
 - **Setup Guide**: Detailed steps for installing MicroK8s and configuring the cluster.
